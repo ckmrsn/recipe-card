@@ -29,14 +29,10 @@
 	border-radius: 50%;
 	margin: 10px;
 	font-size: 20pt;
-	text-align: center;
 	font-weight: bold;
 	color: white;
+	display: flex;
 	justify-content: center;
-}
-
-.letter {
-	vertical-align: middle;
 }
 
 .card-title-group {
